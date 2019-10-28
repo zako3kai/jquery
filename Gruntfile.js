@@ -1,6 +1,6 @@
 "use strict";
 
-//TEST
+//テスト2
 module.exports = function( grunt ) {
 	function readOptionalJSON( filepath ) {
 		var stripJSONComments = require( "strip-json-comments" ),
